@@ -17,7 +17,7 @@
 ---
 
 ## $ ls minecraft/
-minecraft/ <br>
+minecraft/<br>
 ├── spigot/ <br>
 ├── paper/ <br>
 └── bungeecord/

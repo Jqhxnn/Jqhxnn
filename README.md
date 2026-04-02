@@ -17,12 +17,10 @@
 ---
 
 ## $ ls minecraft/
-```
-minecraft/ 
-├── spigot/ 
-├── paper/ 
+minecraft/ <br>
+├── spigot/ <br>
+├── paper/ <br>
 └── bungeecord/
-```
 
 ---
 

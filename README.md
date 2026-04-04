@@ -18,8 +18,8 @@
 
 ## $ ls minecraft/
 minecraft/<br>
-├── spigot/ <br>
-├── paper/ <br>
+├── spigot/<br>
+├── paper/<br>
 └── bungeecord/
 
 ---

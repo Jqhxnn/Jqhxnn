@@ -4,7 +4,7 @@
 ---
 
 ## $ uname -a
-- os: linux mint (cinnamon)
+- os: omarchy (hyprland)
 - previous: arch linux (hyprland)
 - shell: bash
 

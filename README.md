@@ -43,6 +43,7 @@ minecraft/<br>
 ## $ cat editors.txt
 - intellij idea
 - vs code
+- nvim (learning)
 
 ---
 

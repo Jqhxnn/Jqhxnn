@@ -1,5 +1,5 @@
 # $ whoami
-> jqhxnn | java developer | minecraft plugin dev
+> jqhxnn | web developer | minecraft plugin dev
 
 ---
 

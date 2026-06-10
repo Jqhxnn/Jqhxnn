@@ -1,9 +1,11 @@
 # $ whoami
-> jqhxnn | web developer | minecraft plugin dev
+
+> jqhxnn | web developer | minecraft plugin developer
 
 ---
 
 ## $ uname -a
+
 - os: omarchy (hyprland)
 - previous: arch linux (hyprland)
 - shell: bash
@@ -11,12 +13,15 @@
 ---
 
 ## $ cat stack.txt
+
 - languages: java, javascript, html, css
-- focus: backend & server-side development
+- frameworks: react, next.js
+- focus: full-stack development, minecraft plugin development
 
 ---
 
 ## $ ls minecraft/
+
 minecraft/<br>
 ├── spigot/<br>
 ├── paper/<br>
@@ -25,14 +30,16 @@ minecraft/<br>
 ---
 
 ## $ cat plugins.txt
+
 - minigame systems
-- core/server infrastructure plugins
+- core/server infrastructure
 - custom gameplay mechanics
-- network (bungeecord) integration
+- bungeecord network integration
 
 ---
 
 ## $ cat tools.txt
+
 - git
 - npm
 - maven
@@ -41,28 +48,30 @@ minecraft/<br>
 ---
 
 ## $ cat editors.txt
+
 - intellij idea
 - vs code
-- nvim (learning)
 
 ---
 
 ## $ ps aux | grep current_focus
+
 - building scalable minecraft plugins
-- optimizing server performance
-- writing clean and maintainable java code
+- optimizing server and website performance
+- building fast, efficient web applications
 
 ---
 
 ## $ cat philosophy.md
+
 - keep it simple
-- build what you actually need
 - avoid unnecessary complexity
 - cli > gui (when possible)
 
 ---
 
 ## $ echo "contact"
+
 - github: https://github.com/jqhxnn
 
 ---

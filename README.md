@@ -6,7 +6,7 @@
 
 ## $ uname -a
 
-- os: omarchy (hyprland)
+- os: debian 13 (kde plasma)
 - previous: arch linux (hyprland)
 - shell: bash
 
@@ -16,7 +16,7 @@
 
 - languages: java, javascript, html, css
 - frameworks: react, next.js
-- focus: full-stack development, minecraft plugin development
+- focus: building networks, full-stack development, minecraft plugin development
 
 ---
 
@@ -49,7 +49,8 @@ minecraft/<br>
 
 ## $ cat editors.txt
 
-- intellij idea
+- intellij idea ulitmate
+- webstorm
 - vs code
 
 ---

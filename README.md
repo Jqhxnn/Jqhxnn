@@ -49,7 +49,7 @@ minecraft/<br>
 
 ## $ cat editors.txt
 
-- intellij idea ulitmate
+- intellij idea
 - webstorm
 - vs code
 

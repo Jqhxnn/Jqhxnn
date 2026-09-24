@@ -60,6 +60,7 @@ minecraft/<br>
 - building scalable minecraft plugins
 - optimizing server and website performance
 - building fast, efficient web applications
+- learning python
 
 ---
 
